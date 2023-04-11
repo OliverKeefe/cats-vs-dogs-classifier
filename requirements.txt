@@ -1,0 +1,4 @@
+tensorflow>=2.0.0
+tensorflow-datasets
+tensorflow-addons
+numpy>=1.2.4
