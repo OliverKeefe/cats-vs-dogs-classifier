@@ -6,7 +6,6 @@ import keras.utils as image
 from tensorflow import keras
 import os
 
-
 def main():
     #loads the cast_vs_dogs.h5 model
     model = keras.models.load_model('cats_vs_dogs.h5')  
